@@ -8,4 +8,3 @@ Yii 2 Basic Material Template
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VMHSMGG72FUXW)
 
-Donate https://www.paypal.me/activedev
